@@ -27,7 +27,7 @@ body{
   text-decoration: none;
   font-size: 40px;
   color: #E8B5A2;
-  font-family: 'Kristen ITC', sans-serif;
+  font-family: 'Pangolin', cursive;
 
 }
 .page{
@@ -39,7 +39,7 @@ body{
   color: #303820;
   padding-left: 150px;
   padding-top: 80px;
-  font-family: 'Kristen ITC', sans-serif;
+  font-family: 'Pangolin', cursive;
   font-size: 40px;
 }
 .page img{
@@ -129,7 +129,7 @@ body{
 .contact{
   color: #E8B5A2;
   font-size: 40px;
-  font-family: 'Kristen ITC', sans-serif;
+  font-family: 'Pangolin', cursive;
 }
 #email{
   width: 50px;
